@@ -30,7 +30,7 @@ $rowDetail = $hasilDetail->fetch_assoc();
                 <a href="#">
                     <h2 class="font-poppins text-xl font-semibold text-tea-green-800">Home</h2>
                 </a>
-                <a href="#">
+                <a href="listMakanan.php">
                     <h2 class="font-poppins text-xl font-semibold text-tea-green-800">List</h2>
                 </a>
             </div>
